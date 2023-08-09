@@ -70,7 +70,7 @@ function modifiedTwo(){
 }
 // Write anonymous event handler property and function for the third progress button
 
-nextTwo.addEventListener('click', modifiedThree);
+nextThree.addEventListener('click', modifiedThree);
 
 function modifiedThree(){
   startOver.hidden = false;
